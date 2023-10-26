@@ -226,10 +226,10 @@ weight: 700
 font-family: $onest-font-assets.fonts.Onest
 
 -- ftd.type heading-hero-desktop:
-line-height.px: 60
-size.px: 52
+line-height.px: 128
+size.px: 128
 letter-spacing.px: 0
-weight: 700
+weight: 300
 font-family: $onest-font-assets.fonts.Onest
 
 -- ftd.responsive-type heading-hero:
@@ -248,8 +248,8 @@ weight: 700
 font-family: $onest-font-assets.fonts.Onest
 
 -- ftd.type heading-large-desktop:
-line-height.px: 48
-size.px: 40
+line-height.px: 79
+size.px: 72
 letter-spacing.px: 0
 weight: 700
 font-family: $onest-font-assets.fonts.Onest
@@ -270,11 +270,11 @@ weight: 600
 font-family: $onest-font-assets.fonts.Onest
 
 -- ftd.type heading-medium-desktop:
-line-height.px: 44
-size.px: 32
+line-height.px: 53
+size.px: 48
 letter-spacing.px: 0
 font-family: $onest-font-assets.fonts.Onest
-weight: 600
+weight: 700
 
 -- ftd.responsive-type heading-medium:
 desktop: $heading-medium-desktop
@@ -293,9 +293,9 @@ font-family: $onest-font-assets.fonts.Onest
 
 -- ftd.type heading-small-desktop:
 line-height.px: 36
-size.px: 24
+size.px: 36
 letter-spacing.px: 0
-weight: 500
+weight: 400
 font-family: $onest-font-assets.fonts.Onest
 
 -- ftd.responsive-type heading-small:
@@ -337,8 +337,8 @@ weight: 400
 font-family: $onest-font-assets.fonts.Onest
 
 -- ftd.type copy-large-desktop:
-line-height.px: 28
-size.px: 20
+line-height.px: 29
+size.px: 18
 letter-spacing.px: 0
 font-family: $onest-font-assets.fonts.Onest
 weight: 400
@@ -359,11 +359,11 @@ weight: 400
 font-family: $onest-font-assets.fonts.Onest
 
 -- ftd.type copy-regular-desktop:
-line-height.px: 24
-size.px: 16
+line-height.px: 22
+size.px: 14
 letter-spacing.px: 0
 font-family: $onest-font-assets.fonts.Onest
-weight: 400
+weight: 700
 
 -- ftd.responsive-type copy-regular:
 desktop: $copy-regular-desktop
